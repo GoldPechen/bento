@@ -98,9 +98,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+			name: 'VK',
+			icon: 'message-circle-more',
+			link: 'https://vk.com/feed',
 		},
 		{
 			id: '3',
@@ -110,8 +110,8 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
+			name: 'Wildberries',
+			icon: 'shopping-cart',
 			link: 'https://www.wildberries.ru/',
 		},
 		{
