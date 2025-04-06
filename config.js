@@ -116,9 +116,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Porofessor',
+			icon: 'chart-pie',
+			link: 'https://porofessor.gg/live/euw/GoldPechen-star',
 		},
 		{
 			id: '6',
